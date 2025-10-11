@@ -25,6 +25,7 @@ public class CharDemo {
         char in ='\u0BA9';
         char in2='\u0BCD';
 
+        System.out.println(""+ni+as+la+in+in2);
 
 
 
