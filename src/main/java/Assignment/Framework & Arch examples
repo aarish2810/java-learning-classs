@@ -1,0 +1,25 @@
+
+Framework: The recipe or procedure to make tea.
+The process already exists:
+
+Boil water
+
+Add tea powder
+
+Add milk and sugar
+
+Strain and serve
+
+
+Architecture: The design of how components (water, milk, tea powder, sugar) interact.
+The sequence and flow matter:
+
+Boil water first
+
+Add tea powder → color and flavor
+
+Mix milk → smooth texture
+
+Add sugar → taste balance
+
+

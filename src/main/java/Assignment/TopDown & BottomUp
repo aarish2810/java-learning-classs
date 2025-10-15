@@ -1,0 +1,45 @@
+Top-Down Approach
+In the Top-Down approach, you start with a big overall idea or system, then break it down into smaller, manageable parts or submodules.
+
+No.
+Example
+Explanation
+1
+Software Design
+Start with overall system → break into modules → functions.
+2
+Algorithm Design
+Begin with main logic → divide into smaller subroutines.
+3
+Project Management (WBS)
+Create project → divide into phases → tasks → subtasks.
+4
+Organization Structure
+Company → departments → teams → employees.
+5
+Game Development
+Start with concept → levels → characters → code each part.
+
+
+Bottom Up Approach
+In the Bottom-Up approach, you start with small individual components, then integrate them together to form a complete system.
+
+No.
+Example
+Explanation
+1
+Learning to Code
+Start with syntax → then write small programs → finally build full applications.
+2
+Assembling a Computer
+Start with parts (CPU, RAM, HDD) → connect them → build the complete PC.
+3
+Learning a Language
+Learn words → then sentences → then full conversations.
+4
+Team Formation
+Start by hiring skilled individuals → form teams → build departments.
+5
+Software Testing (Unit → Integration)
+Test small units first, then integrate and test the full system.
+

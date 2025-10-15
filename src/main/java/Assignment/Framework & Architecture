@@ -1,0 +1,8 @@
+A framework is a ready-made foundation or set of pre-written code and rules that helps developers build software more efficiently.
+It provides tools, libraries, and a structure to make development faster and more consistent.
+
+Architecture is the overall design or structure of a software system — how different parts of the system interact and work together.
+It’s a blueprint that defines:
+How code is organized,
+How components communicate,
+How data flows through the system.
