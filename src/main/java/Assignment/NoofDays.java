@@ -8,14 +8,15 @@ public class NoofDays {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter a valid month");
         int month = sc.nextInt();
-        int days = 0;
-        int year = 0;
+        int days=0;
+        int year=0;
 
         if (month == 2)
         {
             System.out.println("Please enter the year");
             year = sc.nextInt();
         }
+
 
         if (month == 1 || month == 12 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10)
         {
@@ -42,7 +43,7 @@ public class NoofDays {
         else
         {
             System.out.println("Invalid month");
-           return;
+
         }
 
         System.out.println("No of days:"+ days);
