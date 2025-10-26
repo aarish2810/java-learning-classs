@@ -12,8 +12,7 @@ if(sc.hasNextLong())
 {
     long minutes = sc.nextLong();
     long years = minutes/(60*24*365);
-    long rem_mins = minutes%(60*24*365);
-    long days=rem_mins/(60*24);
+    long days=minutes/(60*24);
 
     System.out.println(years+" Years "+days+" Days ");
 
