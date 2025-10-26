@@ -9,7 +9,7 @@ public class ConvertInches {
         System.out.println("Provide inches:");
       //  double inches = sc.nextDouble();
 
-        if (sc.hasNextDouble()) {
+        if (sc.hasNextDouble()){
             double inches = sc.nextDouble();
             double metres = inches * 0.0254;
 
